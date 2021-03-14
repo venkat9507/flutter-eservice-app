@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "425288261750",
+    "firebase_url": "https://eservices-64d79.firebaseio.com",
+    "project_id": "eservices-64d79",
+    "storage_bucket": "eservices-64d79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425288261750:android:b91711915a69eea7acff57",
+        "android_client_info": {
+          "package_name": "com.digisailor.eservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425288261750-f3tl4u95m0v7oe9e3j3jfe0ek82ot7ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4L50thNd0CMm1GXYGS4KqZJtOKlJ75GA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425288261750-f3tl4u95m0v7oe9e3j3jfe0ek82ot7ru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
